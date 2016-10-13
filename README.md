@@ -1,6 +1,7 @@
 # Ase_lab7
-<<<<<<< HEAD
 This app uses cordova Plugin
-=======
-This is a n ionic app that makes use of cordova plugins
->>>>>>> 0be47149f4fa8ef65b56cb655992be681e8c7cdb
+This is an ionic app that makes use of cordova plugins  
+
+
+The wiki page is:https://github.com/KarthikVundela/Ase_lab7/wiki/lab%237
+
